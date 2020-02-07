@@ -21,6 +21,7 @@
 ### Submitting
 
 
- - If you haven't already, create a github repo for PDA evidence. Copy the folder with the files for this task Once you have completed both of the tasks, save the files with corrected code and submit along with screenshots to your PDA github repo.
+ - If you haven't already, create a github repo for PDA evidence.
+ Copy the folder with the files for this task Once you have completed both of the tasks, save the files with corrected code and submit along with screenshots to your PDA github repo.
 
-  You can also use screenshots of the tests, tests failing and the tests passing, you can use this evidence for week 5 in your evidence gathering portfolio (for P18 of your project unit).
+You can also use screenshots of the tests, tests failing and the tests passing, you can use this evidence for week 5 in your evidence gathering portfolio (for P18 of your project unit).
